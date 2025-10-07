@@ -1,0 +1,17 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit cache directories
+.streamlit/
+streamlit-cache/
+
+# IDE and OS artifacts
+.DS_Store
+.vscode/
+.idea/
